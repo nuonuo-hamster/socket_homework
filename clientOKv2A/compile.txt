@@ -1,0 +1,1 @@
+gcc -o webget webget.c utility.c -Wall -g
